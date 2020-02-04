@@ -20,5 +20,8 @@
   },
   "author": "",
   "license": "ISC",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "repository":    "git://github.com/chths/chths.github.io.git"
 }
