@@ -19,5 +19,6 @@
     "start": "gulp && concurrently --kill-others \"gulp watch\" \"node server.js\""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
